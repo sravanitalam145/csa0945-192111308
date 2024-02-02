@@ -1,0 +1,19 @@
+Enter the number of rows of matrix1
+2
+Enter the number columns of matrix 1
+2
+Enter the number of rows of matrix2
+2
+Enter the number of columns of matrix 2
+2
+Enter the elements of matrix1
+1 2
+5 3
+Enter the elements of matrix2
+1 2
+4 1
+
+
+output matrix:-
+9 4 
+17 13 
